@@ -1,4 +1,4 @@
-<a href="python" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+![header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})
 
 # Tech Stack
 
