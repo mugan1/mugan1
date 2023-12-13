@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=${배경타입}&color=auto&height=${높이}&section=header&text=${텍스트}&fontSize=${글자크기}&animation=${텍스트 효과})
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi-nl-I%20AM%20HANSAEM%20&fontSize=90)
 
 # Tech Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+
 
 - Core Competency
 - Skills
