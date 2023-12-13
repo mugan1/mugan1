@@ -1,7 +1,21 @@
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi-nl-I%20AM%20HANSAEM%20&fontSize=90)
 
-# Tech Stack
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+
+<p align="center">
+  <a href="https://github.com/${깃닉네임}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${깃닉네임}&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=${테마}&hide=${가리고 싶은 언어}" />
+  </a>
+</p>
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/${깃닉네임}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${깃닉네임}&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=${테마}" />
+  </a>
+</p
+  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=openjdk-&logoColor=white">
 
 
 - Core Competency
