@@ -63,7 +63,7 @@
 
 - **Application Enginner (2023.01 ~)**
   > ### Company - Neurocle  
-  > 
+  > : 
   > : Teaching Contents - Scratch, Smart App Inventor(App Inverntor), Programming(Python, C), AI & Data Science(Python)  
   > : Teaching basic principles of Arduino and I/O devices, creative app and game creation using mobile devices & app inventor, data analysis using python language, designing an AI program using Teachable Machine.  
 
