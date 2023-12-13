@@ -1,11 +1,30 @@
+<!-- Header -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=venom&color=auto,100:8CA6DB&height=200&section=header&text=Hansaem's%20Github&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=62&descAlign=75"/></a></p>
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi-nl-I%20AM%20HANSAEM%20&fontSize=90)
-
-<h3 align="center">💡 My Most Used Languages 💡</h3>
+<h3 align="center">💡 Machine Learning 💡</h3>
 
 <p align="center">
-  <a href="https://github.com/${깃닉네임}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${깃닉네임}&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${소유자 표기}&hide_title=${타이틀 가리기}&theme=${테마}&hide=${가리고 싶은 언어}" />
+  <a href="https://github.com/mugan1">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=openjdk-&logoColor=white">
+
+  </a>
+</p>
+
+<h3 align="center">💡 Backend Languages 💡</h3>
+
+<p align="center">
+  <a href="https://github.com/mugan1">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=openjdk-&logoColor=white">
+
+  </a>
+</p>
+
+<h3 align="center">💡 Frontend Languages 💡</h3>
+
+<p align="center">
+  <a href="https://github.com/mugan1">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"> 
+
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
@@ -15,7 +34,7 @@
   </a>
 </p
   
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=openjdk-&logoColor=white">
+ <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=openjdk-&logoColor=white">
 
 
 - Core Competency
