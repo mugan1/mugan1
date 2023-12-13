@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/mugan1">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=openjdk-&logoColor=white">
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"> 
 
   </a>
 </p>
@@ -27,30 +27,45 @@
 
   </a>
 </p>
+
+<h3 align="center">💡 DB & etc 💡</h3>
+
+<p align="center">
+  <a href="https://github.com/mugan1">
+    <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/qt-41CD52?style=flat&logo=qt&logoColor=white"> <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"> 
+  </a>
+</p>
+
+<h3 align="center">💡 My Most Used Languages 💡</h3>
+<p align="center">
+  <a href="https://github.com/mugan1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugan1&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=true&hide=true" />
+  </a>
+</p>
 <h3 align="center">💡 My Git Stats 💡</h3>
 <p align="center">
-  <a href="https://github.com/${깃닉네임}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=${깃닉네임}&hide=${가릴항목}&hide_title=${타이틀숨김}&show_icons=${깃아이콘표시}&include_all_commits=${올해말고 전체년도 커밋표기}&theme=${테마}" />
+  <a href="https://github.com/mugan1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mugan1&hide=true&hide_title=true&show_icons=true&include_all_commits=true&theme=true" />
   </a>
-</p
+</p>
+
   
- <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/csharp-512BD4?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/openjdk-437291?style=flat&logo=openjdk-&logoColor=white">
+### 🥇 Core Competancy
 
+* Programming skills using Python and C++
+* Understanding of machine learning technology and proficiency in using ML frameworks (PyTorch, TensorFlow)
+* Knowledge of statistics and data science
+* Database management and analysis skills
+* Good communication skills
 
-- Core Competency
-- Skills
+### 📖 Experiences
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+- **Application Enginner (2023.01 ~)**
+  > ### Company - Neurocle  
+  > 
+  > : Teaching Contents - Scratch, Smart App Inventor(App Inverntor), Programming(Python, C), AI & Data Science(Python)  
+  > : Teaching basic principles of Arduino and I/O devices, creative app and game creation using mobile devices & app inventor, data analysis using python language, designing an AI program using Teachable Machine.  
 
 ### Installing
 
