@@ -62,7 +62,31 @@
 ### 📖 Experiences
 
 - **Application Enginner (2023.01 ~)**
-  > ### Company - Neurocle  
-  > : 
-  > : Teaching Contents - Scratch, Smart App Inventor(App Inverntor), Programming(Python, C), AI & Data Science(Python)  
-  > : Teaching basic principles of Arduino and I/O devices, creative app and game creation using mobile devices & app inventor, data analysis using python language, designing an AI program using Teachable Machine.  
+  > Company - Neurocle  
+  > - Software Development Experience
+  >     - Gangbuk Samsung Hospital: Qupath extension library [Link](https://github.com/enoong/qupath-extension-neuror)
+  >     - Hallym University Chuncheon Sacred Heart Hospital: Development of real-time inference software VIS
+  > - System Integration Experience
+  >     - Korea Polytechnic University: Development of drone control system with real-time inference model integration
+  >     - Technical support for System Integration tasks at various manufacturing companies
+  > - Consulting and Training Experience
+  >     - Provided technical support and solution consulting to numerous companies
+  >     - Experience in providing education support to partner companies
+  >     - 
+- **Data Scientist (2021.10 ~ 2022.02)**
+  > Company - Panirois, dispatched to Nonghyup IT Center  
+  > - Development task
+  >     - Conducted batch testing for the Loan Underwriting System
+  >     - Developed loan product recommendation logic
+  > - Data related task 
+  >     - Analyzed customer financial big data using SAS and SQL
+  >     - Wrote consulting reports on loan products and collaborated with clients
+  > 
+- **Marine Corps Officer (2013.03 ~ 2015.02)**
+  > Marine platoon leader / Company commander
+  > - Awarded the Division Commander's Award in the Basic Officer Course 
+  > - Executed boundary patrol missions as a Platoon Leader
+  > - Performed the duties of a Company Executive Officer
+
+
+
