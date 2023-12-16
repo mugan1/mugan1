@@ -59,7 +59,7 @@
 * Database management and analysis skills
 * Good communication skills
 
-### 📖 Experiences
+### ⚓ Experiences
 
 - **Application Enginner (2023.01 ~)**
   > Company - Neurocle  
@@ -100,3 +100,19 @@
   > - Practical web development projects using Java, Spring, HTML, CSS, JS
   > - Japanese language conversation practice and JLPT N2 certification
   > - Successfully completed Software Service course in Tokyo, Japan
+### 📘 Study
+- **Medical AI Study (2021.08 ~2021.11)**
+  > - Implementation project of AI models in the medical field
+  >     - Development of an X-ray pneumonia lesion classification model
+  >     - Creation of synthetic data using GAN
+  > - Participation in a genomics data prediction modeling hackathon
+- **Long-Term Memory Chatbot Study  (2021.08 ~2021.09)**
+  > - Literature review and model development project for implementing a long-term memory chatbot
+  > - Review of papers related to Facebook Blenderbot 2.0
+### 👨‍🎓 Educations
+- **Sungkyunkwan University (2009.03 ~2013.02)**
+    > - Major in Korean Language and Literature
+    > - Double major in International Trade
+### 🆎 Languages
+- **Japanese (2019.08)**
+    > - JLPT N2
