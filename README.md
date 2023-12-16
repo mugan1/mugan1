@@ -88,5 +88,15 @@
   > - Executed boundary patrol missions as a Platoon Leader
   > - Performed the duties of a Company Executive Officer
 
+### 💪 Tranings
 
-
+- **Data Science Bootcamp  (2021.01 ~2021.08)**
+  > - Fundamentals of statistics, data handling, and exploratory data analysis (EDA)
+  > - Machine learning model theory and modeling
+  > - Web development with Flask and deployment on Heroku, web crawling, SQL, Git
+  > - Deep learning model theory and modeling
+  > - Computer science studies including data structures and algorithms
+- **Software Development Training Program  (2019.05 ~2020.01)**
+  > - Practical web development projects using Java, Spring, HTML, CSS, JS
+  > - Japanese language conversation practice and JLPT N2 certification
+  > - Successfully completed Software Service course in Tokyo, Japan
