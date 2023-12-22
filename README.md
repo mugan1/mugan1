@@ -69,14 +69,6 @@
   > - Awarded the Division Commander's Award in the Basic Officer Course 
   > - Executed boundary patrol missions as a Platoon Leader
   > - Performed the duties of a Company Executive Officer
-  >
-### 🚀 Main Projects
-| Project Name | Date | Role |
-|:------------:|:----:|------|
-| [Capstone_Design_Project](https://github.com/Min-su-Jeong/Capstone_Design_Project) | 2023.03 ~ 2023.06 | • Prediction AI modeling<br>• Data processing & visualization |
-| [Business_Linkage_Project](https://github.com/Min-su-Jeong/Business_Linkage_Project) | 2022.06 ~ 2023.01 | • Classification AI modeling<br>• Data analysis & visualization |
-| [Image Processing Project](https://github.com/Min-su-Jeong/Image_Processing_Project) | 2022.05 ~ 2022.06 | • Image processing<br>• Development algorithm(Computer vision) |
-| [2022_Development_CV_System_Project](https://github.com/Min-su-Jeong/2022_Development_CV_System_Project) | 2022.01 | • H/W & S/W Communication<br>• Development computer vision system |
 
 ### 💪 Tranings
 
