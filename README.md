@@ -63,12 +63,22 @@
   > - Data related task 
   >     - Analyzed customer financial big data using SAS and SQL
   >     - Wrote consulting reports on loan products and collaborated with clients
-  > 
+  
 - **Marine Corps Officer (2013.03 ~ 2015.02)**
   > Marine platoon leader / Company commander
   > - Awarded the Division Commander's Award in the Basic Officer Course 
   > - Executed boundary patrol missions as a Platoon Leader
   > - Performed the duties of a Company Executive Officer
+  
+###  🔖 Main Project
+| Project Name | Date | Description |
+|:------------:|:----:|------|
+| [Used Car Prediction](https://github.com/mugan1/Used_Car_Prediction) | 2021.08 ~ 2021.09 | Developing a Used Car Price Prediction Web Application |
+| [Pneumonia X-ray Classification](https://github.com/mugan1/Pneumonia_X-ray_Classification) | 2021.07 ~ 2023.08 | X-Ray Pneumonia Lesion Classification Modeling Project |
+| [Hate Speech Prediction](https://github.com/mugan1/pytorch_hate_speech) | 2021.08 ~ 2021.08 | NLP Hate Speech Classification Modeling Project |
+| [Comicbook Translation](https://github.com/mugan1/comic_translation) | 2021.06 | Comic Book Translation Project Using NLP Models and Optical Character Recognition |
+| [Music Recommendation App](https://github.com/mugan1/muse_spotipy_recommendation) | 2021.03 | Building a Music Content Web Service Using Recommendation Algorithms |
+
 
 ### 💪 Tranings
 
