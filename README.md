@@ -73,7 +73,7 @@
 ###  🔖 Main Project
 | Project Name | Date | Description |
 |:------------:|:----:|------|
-| [TTS C# ONNX Inference](https://github.com/mugan1/Used_Car_Prediction) | 2024.05 | C# ONNX inference project utilizing a TTS model |
+| [TTS C# ONNX Inference](https://github.com/mugan1/vits_csharp_onnx) | 2024.05 | C# ONNX inference project utilizing a TTS model |
 | [Used Car Prediction](https://github.com/mugan1/Used_Car_Prediction) | 2021.08 ~ 2021.09 | Developing a Used Car Price Prediction Web Application |
 | [Pneumonia X-ray Classification](https://github.com/mugan1/Pneumonia_X-ray_Classification) | 2021.07 ~ 2023.08 | X-Ray Pneumonia Lesion Classification Modeling Project |
 | [Hate Speech Prediction](https://github.com/mugan1/pytorch_hate_speech) | 2021.08 ~ 2021.08 | NLP Hate Speech Classification Modeling Project |
